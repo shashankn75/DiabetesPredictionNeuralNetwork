@@ -8,3 +8,7 @@ part2.ipynb
 
 diabetes.csv
 - CSV dataset with around 900 rows.
+
+How to run:
+Import the files in GoogleColab, Do not need to upload the diabetes.csv file into googlecolab, the data is imported from
+public git url.
